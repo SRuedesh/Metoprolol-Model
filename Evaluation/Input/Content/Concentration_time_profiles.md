@@ -1,0 +1,1 @@
+The concentration-time profiles show simulated and observed plasma concentrations for the model-building and model-verification datasets. Profiles include intravenous infusion, oral normal-release metoprolol tartrate and oral controlled-release metoprolol succinate studies.

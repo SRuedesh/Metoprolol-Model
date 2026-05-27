@@ -1,0 +1,1 @@
+Goodness-of-fit diagnostics are shown separately for racemic metoprolol, (R)-metoprolol, (S)-metoprolol and α-hydroxymetoprolol. This separation avoids mixing parent, enantiomer-specific and metabolite observations in a single legend.
