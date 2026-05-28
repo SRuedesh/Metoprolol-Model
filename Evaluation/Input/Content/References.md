@@ -1,6 +1,6 @@
 [1] S Rüdesheim, J-G Wojtyniak, D Selzer, N Hanke, F Mahfoud, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling of Metoprolol Enantiomers and α-Hydroxymetoprolol to Describe CYP2D6 Drug-Gene Interactions. Pharmaceutics, 2020;12:1200. doi: [10.3390/pharmaceutics12121200](https://doi.org/10.3390/pharmaceutics12121200).
 
-[2] S Rüdesheim, S Igel, D Selzer, T Mürdter, R Kerb, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
+[2] S Rüdesheim, H L H Loer, D Feick, F Z Marok, L M Fuhr, D Selzer, D Teutonico, A R P Schneider, J Solodenko, S Frechen, M van der Lee, D J A R Moes, J J Swen, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
 
 [3] Bae, S. H., Lee, J. K., Cho, D.-Y. & Bae, S. K. Simultaneous determination of metoprolol and its metabolites, α-hydroxymetoprolol and O-desmethylmetoprolol, in human plasma by liquid chromatography with tandem mass spectrometry: Application to the pharmacokinetics of metoprolol associated with CYP2D6 genotype. Journal of Separation Science 37, 1256-1264 (June 2014). doi: [10.1002/jssc.201301353](https://doi.org/10.1002/jssc.201301353).
 

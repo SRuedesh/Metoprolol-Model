@@ -3,12 +3,12 @@ Whole-body parent-metabolite PBPK model of metoprolol enantiomers and α-hydroxy
 
 This repository contains the metoprolol model originally published by Rüdesheim et al. [[1](#references)] and used as a CYP2D6 substrate model in the CYP2D6 drug-drug-gene interaction network by Rüdesheim et al. [[2](#references)].
 
-The model was developed and evaluated using published adult clinical plasma pharmacokinetic data after intravenous metoprolol infusion and oral metoprolol tartrate or succinate administration, including studies by Kirchheiner/Seeringer, Sharma, Regårdh, Johnsson, Kelly, Godbillon, Werner, Krösser, Huang, Jin, Luzier, Hamelin, Johnson, Stout, Parker, Damy and Bae as summarized by Rüdesheim et al. [[1](#references)].
+The model was developed and evaluated using published adult clinical plasma pharmacokinetic data after intravenous metoprolol infusion and oral metoprolol tartrate or succinate administration, including studies by Bae et al. [[3](#references)], Damy et al. [[4](#references)], Godbillon et al. [[5](#references)], Hamelin et al. [[6](#references)], Huang et al. [[7](#references)], Jin et al. [[8](#references)], Johnson and Burlew [[9](#references)], Johnsson et al. [[10](#references)], Kelly et al. [[11](#references)], Kirchheiner et al. [[12](#references)], Krösser et al. [[13](#references)], Luzier et al. [[14](#references)], Parker and Soberman [[16](#references)], Regårdh et al. [[18](#references)], Regårdh and Johnsson [[19](#references)], Seeringer et al. [[20](#references)], Sharma et al. [[21](#references)], Stout et al. [[22](#references)] and Werner et al. [[23](#references)], as summarized by Rüdesheim et al. [[1](#references)].
 
 Users of the model are expected to cite these studies when using the model in scientific work, reports or derivative model development:
 
 - [S Rüdesheim, J-G Wojtyniak, D Selzer, N Hanke, F Mahfoud, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling of Metoprolol Enantiomers and α-Hydroxymetoprolol to Describe CYP2D6 Drug-Gene Interactions. Pharmaceutics, 2020;12:1200.](https://doi.org/10.3390/pharmaceutics12121200)
-- [S Rüdesheim, S Igel, D Selzer, T Mürdter, R Kerb, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025.](https://doi.org/10.1002/cpt.3604)
+- [S Rüdesheim, H L H Loer, D Feick, F Z Marok, L M Fuhr, D Selzer, D Teutonico, A R P Schneider, J Solodenko, S Frechen, M van der Lee, D J A R Moes, J J Swen, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025.](https://doi.org/10.1002/cpt.3604)
 
 This metoprolol model is intended to describe racemic metoprolol, (R)-metoprolol, (S)-metoprolol and α-hydroxymetoprolol pharmacokinetics across CYP2D6 activity-score groups.
 
@@ -44,7 +44,7 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 ## References
 [1] S Rüdesheim, J-G Wojtyniak, D Selzer, N Hanke, F Mahfoud, M Schwab, T Lehr. Physiologically Based Pharmacokinetic Modeling of Metoprolol Enantiomers and α-Hydroxymetoprolol to Describe CYP2D6 Drug-Gene Interactions. Pharmaceutics, 2020;12:1200. doi: [10.3390/pharmaceutics12121200](https://doi.org/10.3390/pharmaceutics12121200).
 
-[2] S Rüdesheim, S Igel, D Selzer, T Mürdter, R Kerb, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
+[2] S Rüdesheim, H L H Loer, D Feick, F Z Marok, L M Fuhr, D Selzer, D Teutonico, A R P Schneider, J Solodenko, S Frechen, M van der Lee, D J A R Moes, J J Swen, M Schwab, T Lehr. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clin Pharmacol Ther, 2025. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
 
 [3] Bae, S. H., Lee, J. K., Cho, D.-Y. & Bae, S. K. Simultaneous determination of metoprolol and its metabolites, α-hydroxymetoprolol and O-desmethylmetoprolol, in human plasma by liquid chromatography with tandem mass spectrometry: Application to the pharmacokinetics of metoprolol associated with CYP2D6 genotype. Journal of Separation Science 37, 1256-1264 (June 2014). doi: [10.1002/jssc.201301353](https://doi.org/10.1002/jssc.201301353).
 
