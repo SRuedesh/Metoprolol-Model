@@ -1,2 +1,14 @@
 Evaluation/workflow_patched.R
 justfile
+Evaluation/run_workflow_local.R
+Evaluation/re_input/
+Evaluation/re_output/
+Evaluation/report/
+Evaluation/runner.log
+Evaluation/Rplots.pdf
+Rplots.pdf
+.spellcheck.yml
+wordlist_osp_global.txt
+OSP_Qualification_Plan_Schema.json
+mlc_config.json
+dictionary.dic
