@@ -28,7 +28,7 @@ This repository contains:
 - static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
 - an evaluation plan (evaluation_plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
 
-**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](../../releases/latest).**
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found in the [latest release in this repository](./releases/latest).**
 
 **The latest release of the PK-Sim project model file and the respective evaluation report can be found in the [latest OSP PBPK Model Library release](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 

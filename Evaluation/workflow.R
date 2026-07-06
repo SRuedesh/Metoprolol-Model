@@ -65,7 +65,7 @@ createQualificationReport <- function(
   qualificationPlanName <- "evaluation_plan.json"
   qualificationPlanFile <- file.path(
     workingDirectory,
-    "input",
+    "Input",
     qualificationPlanName
   )
 

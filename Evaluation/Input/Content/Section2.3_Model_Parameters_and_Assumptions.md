@@ -8,7 +8,7 @@ The specific intestinal permeability was optimized and applied consistently for 
 
 ### 2.3.2 Distribution
 
-(R)- and (S)-metoprolol use a fraction unbound of 88% and a logP of 1.77 as summarized in [Section 2.2](#22-data-used). The same distribution assumptions are used for both enantiomers because the source information does not support separate enantiomer-specific binding or lipophilicity values.
+(R)- and (S)-metoprolol use a fraction unbound of 88% and a logP of 1.77 as summarized in [Section 2.2](Section2.2_Data.md). The same distribution assumptions are used for both enantiomers because the source information does not support separate enantiomer-specific binding or lipophilicity values.
 
 Partition coefficients were calculated with the Rodgers and Rowland method. The racemic metoprolol observer is used only for comparison with total metoprolol observations and does not replace the enantiomer-specific disposition model.
 
@@ -20,7 +20,7 @@ Metoprolol clearance is represented by CYP2D6-dependent α-hydroxylation, CYP2D6
 
 * CYP2D6
 
-CYP2D6 is the dominant metabolic enzyme in the model. Separate CYP2D6 pathways are implemented for (R)- and (S)-metoprolol α-hydroxylation and O-demethylation. K<sub>m</sub> values are enantiomer- and pathway-specific, while k<sub>cat</sub> values are scaled by CYP2D6 activity score [[1](#5-references), Table 3].
+CYP2D6 is the dominant metabolic enzyme in the model. Separate CYP2D6 pathways are implemented for (R)- and (S)-metoprolol α-hydroxylation and O-demethylation. K<sub>m</sub> values are enantiomer- and pathway-specific, while k<sub>cat</sub> values are scaled by CYP2D6 activity score [[1](References.md#5-references), Table 3].
 
 The CYP2D6 activity-score implementation is the key determinant of simulated exposure differences between poor, intermediate, normal and ultrarapid metabolizer groups. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use optimized k<sub>cat</sub> values.
 

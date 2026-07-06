@@ -1,1 +1,1 @@
-The following tables summarize the final drug-dependent model input parameters generated from the model. Parameter values should be interpreted together with the source and method information in [Section 2.2](#22-data-used) and [Section 2.3](#23-model-parameters-and-assumptions).
+The following tables summarize the final drug-dependent model input parameters generated from the model. Parameter values should be interpreted together with the source and method information in [Section 2.2](Section2.2_Data.md) and [Section 2.3](Section2.3_Model_Parameters_and_Assumptions.md).
