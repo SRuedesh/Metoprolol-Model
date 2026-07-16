@@ -168,7 +168,7 @@
       },
       {
         "Project": "Metoprolol",
-        "Simulation": "Huang 1999 IM, tartrate IR, n=12, AS=0.5",
+        "Simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
         "SectionId": 331
       },
       {
@@ -178,7 +178,7 @@
       },
       {
         "Project": "Metoprolol",
-        "Simulation": "Huang 1999 NM, tartrate IR, n=12, AS=1.25",
+        "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=12, AS=1.25",
         "SectionId": 331
       },
       {
@@ -551,14 +551,14 @@
               },
               {
                 "Project": "Metoprolol",
-                "Simulation": "Huang 1999 NM, tartrate IR, n=12, AS=1.25",
+                "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=12, AS=1.25",
                 "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang 1999 NM, (R)-metoprolol, 100 mg tartrate IR, n=12, AS=1.25",
                 "Color": "#FF0000"
               },
               {
                 "Project": "Metoprolol",
-                "Simulation": "Huang 1999 IM, tartrate IR, n=12, AS=0.5",
+                "Simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
                 "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang 1999 IM, (R)-metoprolol, 100 mg tartrate IR, n=12, AS=0.5",
                 "Color": "#FF0000"
@@ -677,14 +677,14 @@
               },
               {
                 "Project": "Metoprolol",
-                "Simulation": "Huang 1999 NM, tartrate IR, n=12, AS=1.25",
+                "Simulation": "Huang 1999 NM, 100 mg tartrate IR, n=12, AS=1.25",
                 "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang 1999 NM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=1.25",
                 "Color": "#0000FF"
               },
               {
                 "Project": "Metoprolol",
-                "Simulation": "Huang 1999 IM, tartrate IR, n=12, AS=0.5",
+                "Simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
                 "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Huang 1999 IM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=0.5",
                 "Color": "#0000FF"
