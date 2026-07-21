@@ -33,17 +33,3 @@ Residual clearance terms are empirical. They should be interpreted as structural
 * Renal and metabolite elimination
 
 Renal filtration is included with a GFR fraction of 1 for metoprolol and α-hydroxymetoprolol. α-Hydroxymetoprolol also includes unspecific hepatic clearance to describe metabolite elimination beyond passive filtration.
-
-### 2.3.4 Automated parameter identification
-
-The following parameters were optimized by fitting the model to clinical data:
-
-| Model parameter |
-| --- |
-| CYP2D6 k<sub>cat</sub> values for α-hydroxylation and O-demethylation |
-| CYP3A4 first-order clearance terms |
-| Specific intestinal permeability |
-| Normal-release and controlled-release formulation parameters |
-| α-Hydroxymetoprolol unspecific CL<sub>hep</sub> |
-
-The optimized parameters were selected to describe oral formulation behavior, parent-enantiomer clearance and metabolite formation across the available clinical data. Literature-supported physicochemical inputs and binding parameters were retained as fixed model inputs.
