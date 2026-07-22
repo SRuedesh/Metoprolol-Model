@@ -14,13 +14,15 @@ Partition coefficients were calculated with the Rodgers and Rowland method. The 
 
 α-Hydroxymetoprolol is represented with its own molecular weight, lipophilicity, plasma binding and clearance parameters. This separation is required because metabolite exposure is controlled by both formation from the parent enantiomers and metabolite-specific elimination.
 
+The α-hydroxymetoprolol solubility input is the HMDB ALOGPS prediction of 1.43 g/L, implemented as 1,430 mg/L [[24](#5-references)]. Table S2.4.3 of the published model labels this value as g/mL, but the cited HMDB source establishes g/L.
+
 ### 2.3.3 Metabolism and elimination
 
 Metoprolol clearance is represented by CYP2D6-dependent α-hydroxylation, CYP2D6-dependent O-demethylation, CYP3A4 first-order clearance, renal filtration and residual clearance components.
 
 * CYP2D6
 
-CYP2D6 is the dominant metabolic enzyme in the model. Separate CYP2D6 pathways are implemented for (R)- and (S)-metoprolol α-hydroxylation and O-demethylation. K<sub>m</sub> values are enantiomer- and pathway-specific, while k<sub>cat</sub> values are scaled by CYP2D6 activity score [[1](References.md), Table 3].
+CYP2D6 is the dominant metabolic enzyme in the model. Separate CYP2D6 pathways are implemented for (R)- and (S)-metoprolol α-hydroxylation and O-demethylation. K<sub>m</sub> values are enantiomer- and pathway-specific, while k<sub>cat</sub> values are scaled by CYP2D6 activity score [[1](#5-references), Table 3].
 
 The CYP2D6 activity-score implementation is the key determinant of simulated exposure differences between poor, intermediate, normal and ultrarapid metabolizer groups. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use optimized k<sub>cat</sub> values.
 

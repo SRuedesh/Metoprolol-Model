@@ -1,3 +1,3 @@
 The metoprolol PBPK model describes racemic metoprolol, (R)-metoprolol, (S)-metoprolol and α-hydroxymetoprolol plasma concentration-time profiles in adults after intravenous and oral administration. The model includes activity-score-dependent CYP2D6 metabolism and supports evaluation of CYP2D6 drug-gene effects across multiple adult clinical studies.
 
-The report structure, diagnostic plots and repository layout are now aligned with the current OSP evaluation-report template. Final upload readiness still requires a user-side render and human QC of the rendered report, references and scientific conclusions.
+Its use should remain limited to the represented adult intravenous and oral studies, formulations, and CYP2D6 activity-score settings. Interpretation is constrained by uncertainty in genotype-level resolution within an activity-score group and in the quantitative contribution of non-CYP2D6 metabolism.

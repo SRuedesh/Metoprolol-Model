@@ -22,7 +22,7 @@
 
 [12] Kirchheiner, J. et al. Impact of the ultrarapid metabolizer genotype of cytochrome P450 2D6 on metoprolol pharmacokinetics and pharmacodynamics. Clinical Pharmacology and Therapeutics 76, 302-312 (Oct. 2004). doi: [10.1016/j.clpt.2004.07.002](https://doi.org/10.1016/j.clpt.2004.07.002).
 
-[13] Krösser, S. et al. Investigation of sarizotan's impact on the pharmacokinetics of probe drugs for major cytochrome P450 isoenzymes: a combined cocktail trial. European Journal of Clinical Pharmacology 62, 277-284. doi: [10.1007/s00228-006-0101-7](https://doi.org/10.1007/s00228-006-0101-7).
+[13] Krösser, S. et al. Investigation of sarizotan's impact on the pharmacokinetics of probe drugs for major cytochrome P450 isoenzymes: a combined cocktail trial. European Journal of Clinical Pharmacology 62, 277-284 (2006). doi: [10.1007/s00228-006-0101-7](https://doi.org/10.1007/s00228-006-0101-7).
 
 [14] Luzier, A. B. et al. Gender-related effects on metoprolol pharmacokinetics and pharmacodynamics in healthy volunteers. Clinical Pharmacology and Therapeutics 66, 594-601 (Dec. 1999). doi: [10.1053/cp.1999.v66.103400001](https://doi.org/10.1053/cp.1999.v66.103400001).
 
@@ -42,4 +42,6 @@
 
 [22] Stout, S. M. et al. Influence of metoprolol dosage release formulation on the pharmacokinetic drug interaction with paroxetine. Journal of Clinical Pharmacology 51, 389-396 (Mar. 2011). doi: [10.1177/0091270010365559](https://doi.org/10.1177/0091270010365559).
 
-[23] Werner, U. et al. Celecoxib inhibits metabolism of cytochrome P450 2D6 substrate metoprolol in humans. Clinical Pharmacology and Therapeutics 74, 130-137. doi: [10.1016/S0009-9236(03)00120-6](https://doi.org/10.1016/S0009-9236(03)00120-6).
+[23] Werner, U. et al. Celecoxib inhibits metabolism of cytochrome P450 2D6 substrate metoprolol in humans. Clinical Pharmacology and Therapeutics 74, 130-137 (2003). doi: [10.1016/S0009-9236(03)00120-6](https://doi.org/10.1016/S0009-9236(03)00120-6).
+
+[24] Wishart, D. S. et al. HMDB 4.0: the human metabolome database for 2018. Nucleic Acids Research 46, D608-D617 (2018). doi: [10.1093/nar/gkx1089](https://doi.org/10.1093/nar/gkx1089).

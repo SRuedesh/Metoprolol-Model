@@ -105895,7 +105895,7 @@
               "ValueOrigin": {
                 "Source": "Database",
                 "Method": "Other",
-                "Description": "HMDB"
+                "Description": "HMDB 4.0 (ALOGPS predicted water solubility, 1.43 g/l)"
               }
             },
             {
@@ -109144,7 +109144,7 @@
       ]
     },
     {
-      "Name": "Kirchheiner/Seeringer 2008 PM, 100 mg tartrate IR, n=4, AS=0",
+      "Name": "Kirchheiner_Seeringer 2008 PM, 100 mg tartrate IR, n=4, AS=0",
       "Model": "4Comp",
       "ObservedData": [
         "Seeringer 2008 PM, (S)-metoprolol, 100 mg tartrate IR, n=4, AS=0",
@@ -109490,7 +109490,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 12,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -109501,7 +109501,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 11,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -109528,7 +109528,7 @@
       ]
     },
     {
-      "Name": "Kirchheiner/Seeringer 2008 UM, 100 mg tartrate IR, n=12, AS=3",
+      "Name": "Kirchheiner_Seeringer 2008 UM, 100 mg tartrate IR, n=12, AS=3",
       "Model": "4Comp",
       "ObservedData": [
         "Seeringer 2008 UM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=3",
@@ -109855,7 +109855,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 11,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -109866,7 +109866,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 12,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -110231,7 +110231,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 6,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -110242,7 +110242,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 7,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -110640,7 +110640,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 6,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -110651,7 +110651,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 7,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -110689,7 +110689,7 @@
       ]
     },
     {
-      "Name": "Kirchheiner/Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
+      "Name": "Kirchheiner_Seeringer 2008 NM, 100 mg tartrate IR, n=13, AS=2",
       "Model": "4Comp",
       "ObservedData": [
         "Seeringer 2008 NM, (R)-metoprolol, 100 mg tartrate IR, n=13, AS=2",
@@ -111014,7 +111014,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 16,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -111025,7 +111025,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 17,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -112044,7 +112044,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 7,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             },
             {
@@ -112459,7 +112459,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 19,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             },
             {
@@ -112899,7 +112899,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -112910,7 +112910,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -113330,7 +113330,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -113341,7 +113341,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -114555,7 +114555,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 5,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             }
           ],
@@ -116282,7 +116282,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 11,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -116293,7 +116293,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 12,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -116645,7 +116645,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 11,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -116656,7 +116656,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 12,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -117008,7 +117008,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 11,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -117019,7 +117019,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 12,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -117440,7 +117440,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 7,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             }
           ],
@@ -117834,7 +117834,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 19,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             },
             {
@@ -118277,7 +118277,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 15,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             },
             {
@@ -119943,7 +119943,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -119954,7 +119954,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -120283,7 +120283,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -120294,7 +120294,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -120969,7 +120969,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -120980,7 +120980,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 5,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -121891,7 +121891,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             },
             {
@@ -121902,7 +121902,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             }
           ],
@@ -122423,7 +122423,7 @@
                 "Color": "#0000FF",
                 "LegendIndex": 4,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Triangle"
               }
             },
             {
@@ -122434,7 +122434,7 @@
                 "Color": "#FF0000",
                 "LegendIndex": 3,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Square"
               }
             }
           ],
@@ -123632,7 +123632,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 16,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             },
             {
@@ -124057,7 +124057,7 @@
                 "Color": "#FF8000",
                 "LegendIndex": 9,
                 "LineStyle": "None",
-                "Symbol": "Circle"
+                "Symbol": "Diamond"
               }
             }
           ],
