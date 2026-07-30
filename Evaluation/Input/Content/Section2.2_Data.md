@@ -5,7 +5,7 @@ Drug-dependent input parameters for the metoprolol enantiomers were taken from t
 | Parameter | Unit | (R)-metoprolol | (S)-metoprolol | Source | Description |
 | --- | --- | ---: | ---: | --- | --- |
 | MW | g/mol | 267.36 | 267.36 | Literature | Molecular weight. |
-| pK<sub>a</sub> | - | 9.70<sup>a</sup> | 9.70<sup>a</sup> | Literature | Acid dissociation constant. |
+| pK<sub>a</sub>,base | - | 9.70 | 9.70 | Literature | pKa of a basic ionization site. |
 | Solubility, tartrate | g/mL | 1.00 | 1.00 | Literature | Aqueous solubility of the tartrate salt at pH 7.4. |
 | Solubility, succinate | g/mL | 0.16 | 0.16 | Literature | Aqueous solubility of the succinate salt at pH 5.5. |
 | logP | - | 1.77 | 1.77 | Literature | Octanol-water partition coefficient of the neutral species. |
@@ -26,8 +26,6 @@ Drug-dependent input parameters for the metoprolol enantiomers were taken from t
 | Weibull shape, CR | - | 1.53 | 1.53 | Optimized | Shape parameter for controlled-release dissolution. |
 
 **Table 1:**<a name="table-1"></a> Drug-dependent parameters for (R)-metoprolol and (S)-metoprolol from Table 2 of [Rüdesheim 2020](#5). AS: activity score; CR: controlled release; EHC: enterohepatic circulation; GFR: glomerular filtration rate; IR: immediate release; ODM: O-demethylmetoprolol; αHM: α-hydroxymetoprolol.
-
-<sup>a</sup> Basic.
 
 | AS | (R)-metoprolol k<sub>cat</sub> → αHM [1/min] | (R)-metoprolol k<sub>cat</sub> → ODM [1/min] | (S)-metoprolol k<sub>cat</sub> → αHM [1/min] | (S)-metoprolol k<sub>cat</sub> → ODM [1/min] | Origin |
 | ---: | ---: | ---: | ---: | ---: | --- |

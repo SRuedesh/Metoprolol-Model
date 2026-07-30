@@ -107430,7 +107430,7 @@
           "Unit": "g/mol",
           "ValueOrigin": {
             "Source": "Database",
-            "Description": "Pubchem"
+            "Description": "PubChem"
           }
         }
       ]
