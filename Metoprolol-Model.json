@@ -86260,7 +86260,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -86335,7 +86335,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -86459,7 +86459,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -86534,7 +86534,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -86658,7 +86658,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -86994,7 +86994,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -87266,7 +87266,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -87386,7 +87386,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -87674,7 +87674,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -87922,7 +87922,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -88042,7 +88042,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -88117,7 +88117,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -88196,7 +88196,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -88532,7 +88532,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -88652,7 +88652,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -88772,7 +88772,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -88896,7 +88896,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -89232,7 +89232,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -89568,7 +89568,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -89820,7 +89820,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "unknown enzyme",
-      "Category": "Sharma 2005 NM, n=20, AS=1.5",
+      "Category": "Sharma 2005 NM, n=16, AS=1.5",
       "Parameters": [
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|unknown enzyme|Relative expression",
@@ -89852,7 +89852,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -89927,7 +89927,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -90051,7 +90051,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -90126,7 +90126,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -90250,7 +90250,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -90586,7 +90586,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -90858,7 +90858,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -90978,7 +90978,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -91266,7 +91266,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -91514,7 +91514,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -91634,7 +91634,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -91709,7 +91709,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -91788,7 +91788,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -92124,7 +92124,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -92244,7 +92244,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -92364,7 +92364,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -92488,7 +92488,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -92824,7 +92824,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -93160,7 +93160,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -93412,7 +93412,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "unknown enzyme",
-      "Category": "Sharma 2005 PM, n=20, AS=0",
+      "Category": "Sharma 2005 PM, n=4, AS=0",
       "Parameters": [
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|unknown enzyme|Relative expression",
@@ -93444,7 +93444,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP3A4",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "CYP3A4|Reference concentration",
@@ -93519,7 +93519,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "AADAC",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "AADAC|Reference concentration",
@@ -93643,7 +93643,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2D6",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "CYP2D6|Reference concentration",
@@ -93718,7 +93718,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "MAOA",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "MAOA|Reference concentration",
@@ -93842,7 +93842,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCB1",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "ABCB1|Reference concentration",
@@ -94178,7 +94178,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OATP1B1",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "OATP1B1|Reference concentration",
@@ -94450,7 +94450,7 @@
       "Type": "OtherProtein",
       "Species": "Human",
       "Molecule": "ATP1A2",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "ATP1A2|Reference concentration",
@@ -94570,7 +94570,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "OCT2",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "OCT2|Reference concentration",
@@ -94858,7 +94858,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "MATE2-K",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "MATE2-K|Reference concentration",
@@ -95106,7 +95106,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "PON3",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|PON3|Relative expression",
@@ -95226,7 +95226,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP2C8",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "CYP2C8|Reference concentration",
@@ -95301,7 +95301,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UGT2B7",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Organism|Brain|Intracellular|UGT2B7|Relative expression",
@@ -95380,7 +95380,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC3",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "ABCC3|Reference concentration",
@@ -95716,7 +95716,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYS",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "DPYS|Reference concentration",
@@ -95836,7 +95836,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "UPB1",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|UPB1|Relative expression",
@@ -95956,7 +95956,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "DPYD",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "DPYD|Reference concentration",
@@ -96080,7 +96080,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "ABCC4",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "ABCC4|Reference concentration",
@@ -96416,7 +96416,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "SLC22A7",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Organism|Bone|Intracellular|SLC22A7|Relative expression",
@@ -96752,7 +96752,7 @@
       "Type": "Transporter",
       "Species": "Human",
       "Molecule": "Liver_influx_gemfibrozil",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Liver_influx_gemfibrozil|Reference concentration",
@@ -97004,7 +97004,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "unknown enzyme",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|unknown enzyme|Relative expression",
@@ -97036,7 +97036,7 @@
       "Type": "Enzyme",
       "Species": "Human",
       "Molecule": "CYP1A2",
-      "Category": "Stout 2011 NM, n=10",
+      "Category": "Stout 2011 EM, n=10",
       "Parameters": [
         {
           "Path": "CYP1A2|Reference concentration",
@@ -105575,7 +105575,7 @@
       ]
     },
     {
-      "Name": "Sharma 2005 NM, n=20, AS=1.5",
+      "Name": "Sharma 2005 NM, n=16, AS=1.5",
       "Seed": 1832391562,
       "OriginData": {
         "CalculationMethods": [
@@ -105604,30 +105604,30 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "AADAC|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "CYP2D6|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "MAOA|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "ABCB1|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "OATP1B1|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "ATP1A2|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "OCT2|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "MATE2-K|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "PON3|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "CYP2C8|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "UGT2B7|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "ABCC3|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "DPYS|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "UPB1|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "DPYD|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "ABCC4|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "SLC22A7|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "Liver_influx_gemfibrozil|Human|Sharma 2005 NM, n=20, AS=1.5",
-        "unknown enzyme|Human|Sharma 2005 NM, n=20, AS=1.5"
+        "CYP3A4|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "AADAC|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "CYP2D6|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "MAOA|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "ABCB1|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "OATP1B1|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "ATP1A2|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "OCT2|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "MATE2-K|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "PON3|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "CYP2C8|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "UGT2B7|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "ABCC3|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "DPYS|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "UPB1|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "DPYD|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "ABCC4|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "SLC22A7|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "Liver_influx_gemfibrozil|Human|Sharma 2005 NM, n=16, AS=1.5",
+        "unknown enzyme|Human|Sharma 2005 NM, n=16, AS=1.5"
       ]
     },
     {
-      "Name": "Sharma 2005 PM, n=20, AS=0",
+      "Name": "Sharma 2005 PM, n=4, AS=0",
       "Seed": 1832459578,
       "OriginData": {
         "CalculationMethods": [
@@ -105656,30 +105656,30 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Sharma 2005 PM, n=20, AS=0",
-        "AADAC|Human|Sharma 2005 PM, n=20, AS=0",
-        "CYP2D6|Human|Sharma 2005 PM, n=20, AS=0",
-        "MAOA|Human|Sharma 2005 PM, n=20, AS=0",
-        "ABCB1|Human|Sharma 2005 PM, n=20, AS=0",
-        "OATP1B1|Human|Sharma 2005 PM, n=20, AS=0",
-        "ATP1A2|Human|Sharma 2005 PM, n=20, AS=0",
-        "OCT2|Human|Sharma 2005 PM, n=20, AS=0",
-        "MATE2-K|Human|Sharma 2005 PM, n=20, AS=0",
-        "PON3|Human|Sharma 2005 PM, n=20, AS=0",
-        "CYP2C8|Human|Sharma 2005 PM, n=20, AS=0",
-        "UGT2B7|Human|Sharma 2005 PM, n=20, AS=0",
-        "ABCC3|Human|Sharma 2005 PM, n=20, AS=0",
-        "DPYS|Human|Sharma 2005 PM, n=20, AS=0",
-        "UPB1|Human|Sharma 2005 PM, n=20, AS=0",
-        "DPYD|Human|Sharma 2005 PM, n=20, AS=0",
-        "ABCC4|Human|Sharma 2005 PM, n=20, AS=0",
-        "SLC22A7|Human|Sharma 2005 PM, n=20, AS=0",
-        "Liver_influx_gemfibrozil|Human|Sharma 2005 PM, n=20, AS=0",
-        "unknown enzyme|Human|Sharma 2005 PM, n=20, AS=0"
+        "CYP3A4|Human|Sharma 2005 PM, n=4, AS=0",
+        "AADAC|Human|Sharma 2005 PM, n=4, AS=0",
+        "CYP2D6|Human|Sharma 2005 PM, n=4, AS=0",
+        "MAOA|Human|Sharma 2005 PM, n=4, AS=0",
+        "ABCB1|Human|Sharma 2005 PM, n=4, AS=0",
+        "OATP1B1|Human|Sharma 2005 PM, n=4, AS=0",
+        "ATP1A2|Human|Sharma 2005 PM, n=4, AS=0",
+        "OCT2|Human|Sharma 2005 PM, n=4, AS=0",
+        "MATE2-K|Human|Sharma 2005 PM, n=4, AS=0",
+        "PON3|Human|Sharma 2005 PM, n=4, AS=0",
+        "CYP2C8|Human|Sharma 2005 PM, n=4, AS=0",
+        "UGT2B7|Human|Sharma 2005 PM, n=4, AS=0",
+        "ABCC3|Human|Sharma 2005 PM, n=4, AS=0",
+        "DPYS|Human|Sharma 2005 PM, n=4, AS=0",
+        "UPB1|Human|Sharma 2005 PM, n=4, AS=0",
+        "DPYD|Human|Sharma 2005 PM, n=4, AS=0",
+        "ABCC4|Human|Sharma 2005 PM, n=4, AS=0",
+        "SLC22A7|Human|Sharma 2005 PM, n=4, AS=0",
+        "Liver_influx_gemfibrozil|Human|Sharma 2005 PM, n=4, AS=0",
+        "unknown enzyme|Human|Sharma 2005 PM, n=4, AS=0"
       ]
     },
     {
-      "Name": "Stout 2011 NM, n=10",
+      "Name": "Stout 2011 EM, n=10",
       "Seed": 1832552515,
       "OriginData": {
         "CalculationMethods": [
@@ -105712,27 +105712,27 @@
         }
       ],
       "ExpressionProfiles": [
-        "CYP3A4|Human|Stout 2011 NM, n=10",
-        "AADAC|Human|Stout 2011 NM, n=10",
-        "CYP2D6|Human|Stout 2011 NM, n=10",
-        "MAOA|Human|Stout 2011 NM, n=10",
-        "ABCB1|Human|Stout 2011 NM, n=10",
-        "OATP1B1|Human|Stout 2011 NM, n=10",
-        "ATP1A2|Human|Stout 2011 NM, n=10",
-        "OCT2|Human|Stout 2011 NM, n=10",
-        "MATE2-K|Human|Stout 2011 NM, n=10",
-        "PON3|Human|Stout 2011 NM, n=10",
-        "CYP2C8|Human|Stout 2011 NM, n=10",
-        "UGT2B7|Human|Stout 2011 NM, n=10",
-        "ABCC3|Human|Stout 2011 NM, n=10",
-        "DPYS|Human|Stout 2011 NM, n=10",
-        "UPB1|Human|Stout 2011 NM, n=10",
-        "DPYD|Human|Stout 2011 NM, n=10",
-        "ABCC4|Human|Stout 2011 NM, n=10",
-        "SLC22A7|Human|Stout 2011 NM, n=10",
-        "Liver_influx_gemfibrozil|Human|Stout 2011 NM, n=10",
-        "unknown enzyme|Human|Stout 2011 NM, n=10",
-        "CYP1A2|Human|Stout 2011 NM, n=10"
+        "CYP3A4|Human|Stout 2011 EM, n=10",
+        "AADAC|Human|Stout 2011 EM, n=10",
+        "CYP2D6|Human|Stout 2011 EM, n=10",
+        "MAOA|Human|Stout 2011 EM, n=10",
+        "ABCB1|Human|Stout 2011 EM, n=10",
+        "OATP1B1|Human|Stout 2011 EM, n=10",
+        "ATP1A2|Human|Stout 2011 EM, n=10",
+        "OCT2|Human|Stout 2011 EM, n=10",
+        "MATE2-K|Human|Stout 2011 EM, n=10",
+        "PON3|Human|Stout 2011 EM, n=10",
+        "CYP2C8|Human|Stout 2011 EM, n=10",
+        "UGT2B7|Human|Stout 2011 EM, n=10",
+        "ABCC3|Human|Stout 2011 EM, n=10",
+        "DPYS|Human|Stout 2011 EM, n=10",
+        "UPB1|Human|Stout 2011 EM, n=10",
+        "DPYD|Human|Stout 2011 EM, n=10",
+        "ABCC4|Human|Stout 2011 EM, n=10",
+        "SLC22A7|Human|Stout 2011 EM, n=10",
+        "Liver_influx_gemfibrozil|Human|Stout 2011 EM, n=10",
+        "unknown enzyme|Human|Stout 2011 EM, n=10",
+        "CYP1A2|Human|Stout 2011 EM, n=10"
       ]
     },
     {
@@ -105940,7 +105940,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'hydroxymetoprolol_enzyme_fit' on 2020-01-29 09:59"
+                "Description": "Optimized"
               }
             }
           ]
@@ -105971,7 +105971,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1 log' on 2020-09-11 09:03"
+                "Description": "Optimized"
               }
             }
           ]
@@ -106991,7 +106991,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:49"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107026,7 +107026,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:46"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107061,7 +107061,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 7' on 2020-09-12 18:17"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107091,7 +107091,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2020-07-16 17:43"
+                "Description": "Optimized"
               }
             },
             {
@@ -107101,7 +107101,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:33"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107137,7 +107137,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:49"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107173,7 +107173,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:46"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107209,7 +107209,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 7' on 2020-09-12 18:17"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107240,7 +107240,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 1' on 2020-07-16 17:43"
+                "Description": "Optimized"
               }
             },
             {
@@ -107250,7 +107250,7 @@
               "ValueOrigin": {
                 "Source": "ParameterIdentification",
                 "Method": "ParameterIdentification",
-                "Description": "Value updated from 'Parameter Identification 6' on 2020-09-11 14:33"
+                "Description": "Optimized"
               }
             }
           ]
@@ -107448,7 +107448,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 1 log' on 2020-09-11 09:02"
+            "Description": "Optimized"
           }
         },
         {
@@ -107462,7 +107462,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 1 log' on 2020-09-11 09:02"
+            "Description": "Optimized"
           }
         },
         {
@@ -109121,7 +109121,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Regårdh 1980: 10 mg tartrate iv 5 min, n=6",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109505,7 +109505,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kirchheiner 2004 / Seeringer 2008: PM, 100 mg tartrate IR, n=4, AS=0",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109870,7 +109870,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kirchheiner 2004 / Seeringer 2008: UM, 100 mg tartrate IR, n=12, AS=3",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -109893,12 +109893,12 @@
       ]
     },
     {
-      "Name": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0",
+      "Name": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0",
       "Model": "4Comp",
       "ObservedData": [
-        "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0",
-        "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0",
-        "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0"
+        "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0",
+        "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0",
+        "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -109982,7 +109982,7 @@
         "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer"
       ],
-      "Individual": "Sharma 2005 PM, n=20, AS=0",
+      "Individual": "Sharma 2005 PM, n=4, AS=0",
       "Compounds": [
         {
           "Name": "Metoprolol racemate",
@@ -110188,45 +110188,45 @@
           ],
           "Curves": [
             {
-              "Name": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0-Organism-PeripheralVenousBlood-Metoprolol racemate-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0-Organism-PeripheralVenousBlood-Metoprolol racemate-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0|Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0|Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 2
               }
             },
             {
-              "Name": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3
               }
             },
             {
-              "Name": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4
               }
             },
             {
-              "Name": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
+              "Name": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
               "X": "Time",
-              "Y": "Sharma 2005 PM, 100 mg tartrate, n=20, AS=0|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+              "Y": "Sharma 2005 PM, 100 mg tartrate, n=4, AS=0|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 5
               }
             },
             {
-              "Name": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0-S-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0|h",
-              "Y": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL",
+              "Name": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0-S-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0|h",
+              "Y": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 6,
@@ -110235,9 +110235,9 @@
               }
             },
             {
-              "Name": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0-R-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0|h",
-              "Y": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL",
+              "Name": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0-R-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0|h",
+              "Y": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 7,
@@ -110246,9 +110246,9 @@
               }
             },
             {
-              "Name": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0|h",
-              "Y": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
+              "Name": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0|h",
+              "Y": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 8,
@@ -110257,7 +110257,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sharma 2005: PM, 100 mg tartrate, n=4, AS=0",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -110275,17 +110275,17 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "Metoprolol-Model\nSharma 2005 PM, 100 mg metoprolol tartrate, n=20, AS=0\n2024-02-21 10:37"
+          "OriginText": "Metoprolol-Model\nSharma 2005 PM, 100 mg metoprolol tartrate, n=4, AS=0\n2024-02-21 10:37"
         }
       ]
     },
     {
-      "Name": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5",
+      "Name": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5",
       "Model": "4Comp",
       "ObservedData": [
-        "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
-        "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
-        "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5"
+        "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
+        "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
+        "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -110391,7 +110391,7 @@
         "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer"
       ],
-      "Individual": "Sharma 2005 NM, n=20, AS=1.5",
+      "Individual": "Sharma 2005 NM, n=16, AS=1.5",
       "Compounds": [
         {
           "Name": "Metoprolol racemate",
@@ -110597,45 +110597,45 @@
           ],
           "Curves": [
             {
-              "Name": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5-Organism-PeripheralVenousBlood-Metoprolol racemate-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5-Organism-PeripheralVenousBlood-Metoprolol racemate-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5|Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5|Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 2
               }
             },
             {
-              "Name": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3
               }
             },
             {
-              "Name": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4
               }
             },
             {
-              "Name": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
+              "Name": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
               "X": "Time",
-              "Y": "Sharma 2005 NM, 100 mg tartrate, n=20, AS=1.5|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+              "Y": "Sharma 2005 NM, 100 mg tartrate, n=16, AS=1.5|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 5
               }
             },
             {
-              "Name": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5-R-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
-              "Y": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL",
+              "Name": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5-R-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
+              "Y": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 6,
@@ -110644,9 +110644,9 @@
               }
             },
             {
-              "Name": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5-S-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
-              "Y": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL",
+              "Name": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5-S-Metoprolol-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
+              "Y": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 7,
@@ -110655,9 +110655,9 @@
               }
             },
             {
-              "Name": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
-              "Y": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
+              "Name": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
+              "Y": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 8,
@@ -110666,7 +110666,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Sharma 2005: NM, 100 mg tartrate, n=16, AS=1.5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111029,7 +111029,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kirchheiner 2004 / Seeringer 2008: NM, 100 mg tartrate IR, n=13, AS=2",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111360,7 +111360,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Regårdh 1974: 5 mg tartrate solution, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -111682,7 +111682,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Regårdh 1974: 5 mg tartrate iv 10 min, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112066,7 +112066,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Werner 2003: NM, 50 mg tartrate IR, n=12, AS=1.5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112483,7 +112483,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Krösser 2006: NM, 100 mg tartrate IR, n=18",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -112914,7 +112914,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Luzier 1999: NM, 100 mg b.i.d. tartrate IR, n=10 male, multiple dose",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113345,7 +113345,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Luzier 1999: NM, 100 mg b.i.d. tartrate IR, n=10 female, multiple dose",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -113678,7 +113678,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 100 mg tartrate IR, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114154,7 +114154,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kelly 1985: 100 mg b.i.d. tartrate IR, n=12, multiple dose",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114559,7 +114559,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Godbillon 1985: 88.7 mg tartrate iv 150 min, n=6",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -114955,7 +114955,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 50 mg tartrate IR, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115291,7 +115291,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 20 mg tartrate IR, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115612,7 +115612,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kelly 1985: 50 mg tartrate iv 10 min, n=12",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -115934,7 +115934,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 5 mg tartrate iv 10 min, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -116297,7 +116297,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1999: NM, 100 mg tartrate IR, n=12, AS=1.25",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -116660,7 +116660,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1999: IM, 100 mg tartrate IR, n=12, AS=0.5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -117023,7 +117023,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Huang 1999: NM, 100 mg tartrate IR, n=16, AS=2",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -117444,7 +117444,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Jin 2008: NM, 100 mg tartrate IR, n=6, AS=2",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -117867,7 +117867,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Jin 2008: NM, 100 mg tartrate IR, n=7, AS=1.25",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -118292,7 +118292,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Jin 2008: IM, 100 mg tartrate IR, n=5, AS=0.5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -118628,7 +118628,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Hamelin 2000: NM, 100 mg tartrate IR, n=10",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -118967,7 +118967,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Hamelin 2000: PM, 100 mg tartrate IR, n=6",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -119289,7 +119289,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 10 mg tartrate iv 10 min, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -119611,7 +119611,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 20 mg tartrate iv 10 min, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -119958,7 +119958,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnson 1996: NM, 200 mg tartrate IR, n=10 Black American",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -119981,11 +119981,11 @@
       ]
     },
     {
-      "Name": "Johnson 1996 NM, 100 mg tartrate IR, n=10 White American",
+      "Name": "Johnson 1996 NM, 200 mg tartrate IR, n=10 White American",
       "Model": "4Comp",
       "ObservedData": [
-        "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American",
-        "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American"
+        "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American",
+        "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -120258,27 +120258,27 @@
           ],
           "Curves": [
             {
-              "Name": "Johnson 1996 NM, 100 mg tartrate IR, n=10 White American-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Johnson 1996 NM, 200 mg tartrate IR, n=10 White American-Organism-PeripheralVenousBlood-R-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Johnson 1996 NM, 100 mg tartrate IR, n=10 White American|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Johnson 1996 NM, 200 mg tartrate IR, n=10 White American|Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Johnson 1996 NM, 100 mg tartrate IR, n=10 White American-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
+              "Name": "Johnson 1996 NM, 200 mg tartrate IR, n=10 White American-Organism-PeripheralVenousBlood-S-Metoprolol-Plasma (Peripheral Venous Blood)",
               "X": "Time",
-              "Y": "Johnson 1996 NM, 100 mg tartrate IR, n=10 White American|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+              "Y": "Johnson 1996 NM, 200 mg tartrate IR, n=10 White American|Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 2
               }
             },
             {
-              "Name": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American-S-Metoprolol-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American|[h]",
-              "Y": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL]",
+              "Name": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American-S-Metoprolol-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American|[h]",
+              "Y": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL]",
               "CurveOptions": {
                 "Color": "#0000FF",
                 "LegendIndex": 4,
@@ -120287,9 +120287,9 @@
               }
             },
             {
-              "Name": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American-R-Metoprolol-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American|[h]",
-              "Y": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL]",
+              "Name": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American-R-Metoprolol-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American|[h]",
+              "Y": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL]",
               "CurveOptions": {
                 "Color": "#FF0000",
                 "LegendIndex": 3,
@@ -120298,7 +120298,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnson 1996: NM, 200 mg tartrate IR, n=10 White American",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -120321,10 +120321,10 @@
       ]
     },
     {
-      "Name": "Stout 2011 NM, 50 mg tartrate IR, n=10",
+      "Name": "Stout 2011 EM, 50 mg tartrate IR, n=10",
       "Model": "4Comp",
       "ObservedData": [
-        "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10"
+        "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -120396,7 +120396,7 @@
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Stout 2011 NM, n=10",
+      "Individual": "Stout 2011 EM, n=10",
       "Compounds": [
         {
           "Name": "Metoprolol racemate",
@@ -120602,18 +120602,18 @@
           ],
           "Curves": [
             {
-              "Name": "Stout 2011 NM, 50 mg tartrate IR, n=10-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
+              "Name": "Stout 2011 EM, 50 mg tartrate IR, n=10-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
               "X": "Time",
-              "Y": "Stout 2011 NM, 50 mg tartrate IR, n=10|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+              "Y": "Stout 2011 EM, 50 mg tartrate IR, n=10|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
-              "X": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10|h",
-              "Y": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
+              "Name": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10-Metoprolol racemate-Peripheral Venous Blood-Plasma-ng/mL",
+              "X": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10|h",
+              "Y": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 4,
@@ -120622,7 +120622,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Stout 2011: NM, 50 mg tartrate IR, n=10",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -120640,7 +120640,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "metoprolol\nStout 2011 NM, 50 mg metoprolol tartrate (normal release), n=10\n2020-12-14 14:21"
+          "OriginText": "metoprolol\nStout 2011 EM, 50 mg metoprolol tartrate (normal release), n=10\n2020-12-14 14:21"
         }
       ]
     },
@@ -120984,7 +120984,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Parker 2011: NM, 100 mg tartrate IR, n=15",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -121306,7 +121306,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Johnsson 1975: 15 mg tartrate iv 10 min, n=5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -121378,7 +121378,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121388,7 +121388,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121398,7 +121398,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121408,7 +121408,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121418,7 +121418,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121428,7 +121428,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121438,7 +121438,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121448,7 +121448,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121458,7 +121458,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121468,7 +121468,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121478,7 +121478,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121488,7 +121488,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121498,7 +121498,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121508,7 +121508,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121518,7 +121518,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121528,7 +121528,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121538,7 +121538,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121548,7 +121548,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121558,7 +121558,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121568,7 +121568,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121578,7 +121578,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121588,7 +121588,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121598,7 +121598,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121608,7 +121608,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121906,7 +121906,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Parker 2011: NM, 200 mg succinate CR, n=15",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -121985,7 +121985,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -121995,7 +121995,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122005,7 +122005,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122015,7 +122015,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122025,7 +122025,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122035,7 +122035,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122045,7 +122045,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122055,7 +122055,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122065,7 +122065,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122075,7 +122075,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122085,7 +122085,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122095,7 +122095,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122105,7 +122105,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122115,7 +122115,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122125,7 +122125,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122135,7 +122135,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122145,7 +122145,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122155,7 +122155,7 @@
           "ValueOrigin": {
             "Source": "ParameterIdentification",
             "Method": "ParameterIdentification",
-            "Description": "Value updated from 'Parameter Identification 10' on 2020-04-16 13:43"
+            "Description": "Optimized"
           }
         },
         {
@@ -122438,7 +122438,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Parker 2011: NM, 100 mg succinate CR, n=15",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -122461,10 +122461,10 @@
       ]
     },
     {
-      "Name": "Stout 2011 NM, 100 mg succinate CR, n=10",
+      "Name": "Stout 2011 EM, 100 mg succinate CR, n=10",
       "Model": "4Comp",
       "ObservedData": [
-        "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10"
+        "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10"
       ],
       "Solver": {},
       "OutputSchema": [
@@ -122543,7 +122543,7 @@
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
         "Organism|PeripheralVenousBlood|Metoprolol racemate|Plasma (Peripheral Venous Blood)"
       ],
-      "Individual": "Stout 2011 NM, n=10",
+      "Individual": "Stout 2011 EM, n=10",
       "Compounds": [
         {
           "Name": "Metoprolol racemate",
@@ -122749,18 +122749,18 @@
           ],
           "Curves": [
             {
-              "Name": "Stout 2011 NM, 100 mg succinate CR, n=10-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
+              "Name": "Stout 2011 EM, 100 mg succinate CR, n=10-Organism-PeripheralVenousBlood-Metoprolol racemate-Metoprolol racemate Observer",
               "X": "Time",
-              "Y": "Stout 2011 NM, 100 mg succinate CR, n=10|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+              "Y": "Stout 2011 EM, 100 mg succinate CR, n=10|Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10-Metoprolol racemate-Peripheral Venous Blood-Plasma-[ng/mL]",
-              "X": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10|[h]",
-              "Y": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL]",
+              "Name": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10-Metoprolol racemate-Peripheral Venous Blood-Plasma-[ng/mL]",
+              "X": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10|[h]",
+              "Y": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL]",
               "CurveOptions": {
                 "Color": "#008000",
                 "LegendIndex": 5,
@@ -122769,7 +122769,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Stout 2011: NM, 100 mg succinate CR, n=10",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -122787,7 +122787,7 @@
             "BackColor": "#00FFFFFF",
             "DiagramBackColor": "#FFFFFF"
           },
-          "OriginText": "metoprolol\nStout 2011 NM, 100 mg metoprolol tartrate (controlled release), n=10\n2020-12-14 14:23"
+          "OriginText": "metoprolol\nStout 2011 EM, 100 mg metoprolol tartrate (controlled release), n=10\n2020-12-14 14:23"
         }
       ]
     },
@@ -123222,7 +123222,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Damy 2004: 200 mg succinate CR, n=13, NM",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -123647,7 +123647,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Bae 2014: IM, 100 mg tartrate IR, n=3, AS=0.5",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -124061,7 +124061,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Bae 2014: NM, 100 mg tartrate IR, n=4, AS=2",
           "FontAndSize": {
             "Fonts": {
               "AxisSize": 10,
@@ -124086,7 +124086,7 @@
   ],
   "ObservedData": [
     {
-      "Name": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0",
+      "Name": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124116,7 +124116,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
+                "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124148,7 +124148,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
+            "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124182,7 +124182,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0|h",
+          "Path": "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -124214,7 +124214,7 @@
       }
     },
     {
-      "Name": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5",
+      "Name": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124244,7 +124244,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
+                "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124271,7 +124271,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
+            "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124300,7 +124300,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
+          "Path": "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -124327,7 +124327,7 @@
       }
     },
     {
-      "Name": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0",
+      "Name": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124357,7 +124357,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL(1)"
+                "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124386,7 +124386,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL"
+            "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124417,7 +124417,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0|h",
+          "Path": "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -124446,7 +124446,7 @@
       }
     },
     {
-      "Name": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0",
+      "Name": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124476,7 +124476,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL(1)"
+                "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124507,7 +124507,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL"
+            "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124540,7 +124540,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0|h",
+          "Path": "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -124571,7 +124571,7 @@
       }
     },
     {
-      "Name": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
+      "Name": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124601,7 +124601,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL(1)"
+                "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124627,7 +124627,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL"
+            "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124655,7 +124655,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
+          "Path": "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -124681,7 +124681,7 @@
       }
     },
     {
-      "Name": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
+      "Name": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -124711,7 +124711,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL(1)"
+                "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -124736,7 +124736,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL"
+            "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -124763,7 +124763,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5|h",
+          "Path": "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -127615,7 +127615,7 @@
       }
     },
     {
-      "Name": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10",
+      "Name": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -127645,7 +127645,7 @@
             {
               "Name": "ng/mL(1)",
               "QuantityInfo": {
-                "Path": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
+                "Path": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL(1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -127669,7 +127669,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
+            "Path": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|ng/mL"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -127695,7 +127695,7 @@
       "BaseGrid": {
         "Name": "h",
         "QuantityInfo": {
-          "Path": "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10|h",
+          "Path": "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10|h",
           "Type": "Time"
         },
         "DataInfo": {
@@ -129942,7 +129942,7 @@
       }
     },
     {
-      "Name": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American",
+      "Name": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -129972,7 +129972,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL](1)"
+                "Path": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -129996,7 +129996,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL]"
+            "Path": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|R-Metoprolol|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -130022,7 +130022,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American|[h]",
+          "Path": "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -130046,7 +130046,7 @@
       }
     },
     {
-      "Name": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American",
+      "Name": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -130076,7 +130076,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL](1)"
+                "Path": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -130100,7 +130100,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL]"
+            "Path": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American|ObservedData|Peripheral Venous Blood|Plasma|S-Metoprolol|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -130126,7 +130126,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American|[h]",
+          "Path": "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -130150,7 +130150,7 @@
       }
     },
     {
-      "Name": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10",
+      "Name": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10",
       "ExtendedProperties": [
         {
           "Name": "Molecule",
@@ -130180,7 +130180,7 @@
             {
               "Name": "[ng/mL](1)",
               "QuantityInfo": {
-                "Path": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL](1)"
+                "Path": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL](1)"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -130205,7 +130205,7 @@
             }
           ],
           "QuantityInfo": {
-            "Path": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL]"
+            "Path": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10|ObservedData|Peripheral Venous Blood|Plasma|Metoprolol racemate|[ng/mL]"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -130232,7 +130232,7 @@
       "BaseGrid": {
         "Name": "[h]",
         "QuantityInfo": {
-          "Path": "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10|[h]",
+          "Path": "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10|[h]",
           "Type": "Time"
         },
         "DataInfo": {
@@ -130805,8 +130805,8 @@
     {
       "Name": "(S)-Metoprolol",
       "Classifiables": [
-        "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=20, AS=0",
-        "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
+        "Sharma 2005 PM, (S)-metoprolol, 100 mg tartrate, n=4, AS=0",
+        "Sharma 2005 NM, (S)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
         "Seeringer 2008 NM, (S)-metoprolol, 100 mg tartrate IR, n=13, AS=2",
         "Seeringer 2008 UM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=3",
         "Seeringer 2008 PM, (S)-metoprolol, 100 mg tartrate IR, n=4, AS=0",
@@ -130817,7 +130817,7 @@
         "Huang 1999 NM, (S)-metoprolol, 100 mg tartrate IR, n=16, AS=2",
         "Huang 1999 NM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=1.25",
         "Huang 1999 IM, (S)-metoprolol, 100 mg tartrate IR, n=12, AS=0.5",
-        "Johnson 1996 NM, (S)-metoprolol, 100 mg tartrate IR, n=10 White American",
+        "Johnson 1996 NM, (S)-metoprolol, 200 mg tartrate IR, n=10 White American",
         "Parker 2011 NM, (S)-metoprolol, 200 mg succinate CR, n=15",
         "Parker 2011 NM, (S)-metoprolol, 100 mg succinate CR, n=15"
       ]
@@ -130825,8 +130825,8 @@
     {
       "Name": "(R)-Metoprolol",
       "Classifiables": [
-        "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=20, AS=0",
-        "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=20, AS=1.5",
+        "Sharma 2005 PM, (R)-metoprolol, 100 mg tartrate, n=4, AS=0",
+        "Sharma 2005 NM, (R)-metoprolol, 100 mg tartrate, n=16, AS=1.5",
         "Seeringer 2008 PM, (R)-metoprolol, 100 mg tartrate IR, n=4, AS=0",
         "Seeringer 2008 UM, (R)-metoprolol, 100 mg tartrate IR, n=12, AS=3",
         "Seeringer 2008 NM, (R)-metoprolol, 100 mg tartrate IR, n=13, AS=2",
@@ -130837,7 +130837,7 @@
         "Huang 1999 NM, (R)-metoprolol, 100 mg tartrate IR, n=16, AS=2",
         "Huang 1999 NM, (R)-metoprolol, 100 mg tartrate IR, n=12, AS=1.25",
         "Huang 1999 IM, (R)-metoprolol, 100 mg tartrate IR, n=12, AS=0.5",
-        "Johnson 1996 NM, (R)-metoprolol, 100 mg tartrate IR, n=10 White American",
+        "Johnson 1996 NM, (R)-metoprolol, 200 mg tartrate IR, n=10 White American",
         "Parker 2011 NM, (R)-metoprolol, 200 mg succinate CR, n=15",
         "Parker 2011 NM, (R)-metoprolol, 100 mg succinate CR, n=15"
       ]
@@ -130858,8 +130858,8 @@
     {
       "Name": "Metoprolol racemate",
       "Classifiables": [
-        "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=20, AS=0",
-        "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=20, AS=1.5",
+        "Sharma 2005 PM, metoprolol, 100 mg tartrate, n=4, AS=0",
+        "Sharma 2005 NM, metoprolol, 100 mg tartrate, n=16, AS=1.5",
         "Kelly 1985, metoprolol, 50 mg tartrate iv 10 min, n=12",
         "Johnsson 1975, metoprolol, 100 mg tartrate IR, n=5",
         "Regårdh 1974, 5 mg tartrate solution, n=5",
@@ -130874,7 +130874,7 @@
         "Johnsson 1975, metoprolol, 5 mg tartrate iv 10 min, n=5",
         "Hamelin 2000 NM, metoprolol, 100 mg tartrate IR, n=10",
         "Hamelin 2000 PM, metoprolol, 100 mg tartrate IR, n=6",
-        "Stout 2011 NM, metoprolol, 50 mg tartrate IR, n=10",
+        "Stout 2011 EM, metoprolol, 50 mg tartrate IR, n=10",
         "Jin 2008 NM, metoprolol, 100 mg tartrate IR, n=6, AS=2",
         "Jin 2008 NM, metoprolol, 100 mg tartrate IR, n=7, AS=1.25",
         "Jin 2008 IM, metoprolol, 100 mg tartrate IR, n=5, AS=0.5",
@@ -130883,7 +130883,7 @@
         "Johnsson 1975, metoprolol, 10 mg tartrate iv 10 min, n=5",
         "Johnsson 1975, metoprolol, 15 mg tartrate iv 10 min, n=5",
         "Johnsson 1975, metoprolol, 20 mg tartrate iv 10 min, n=5",
-        "Stout 2011 NM, metoprolol, 100 mg succinate CR, n=10",
+        "Stout 2011 EM, metoprolol, 100 mg succinate CR, n=10",
         "Damy 2004, 200 mg succinate CR, n=13, NM"
       ]
     }
