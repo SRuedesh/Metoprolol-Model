@@ -104678,7 +104678,7 @@
           "Body surface area - Mosteller"
         ],
         "Species": "Human",
-        "Population": "European_ICRP_2002",
+        "Population": "Asian_Tanaka_1996",
         "Gender": "MALE",
         "Age": {
           "Value": 23.6,
@@ -116580,7 +116580,7 @@
           "Name": "Metoprolol racemate peripheral venous blood concentration"
         }
       ],
-      "HasResults": true,
+      "HasResults": false,
       "IndividualAnalyses": [
         {
           "Axes": [

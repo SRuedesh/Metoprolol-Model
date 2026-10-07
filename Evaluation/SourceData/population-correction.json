@@ -1,0 +1,55 @@
+{
+  "study": "Huang 1999",
+  "review_date": "2026-10-07",
+  "source": "https://doi.org/10.1016/S0009-9236(99)70134-7",
+  "individual": "Huang 1999 IM, n=12, AS=0.5",
+  "simulation": "Huang 1999 IM, 100 mg tartrate IR, n=12, AS=0.5",
+  "field": "OriginData.Population",
+  "previous": "European_ICRP_2002",
+  "corrected": "Asian_Tanaka_1996",
+  "reason": "The study enrolled Chinese subjects. The AS 1.25 and AS 2 model individuals already use the Asian population.",
+  "validation": {
+    "date": "2026-10-07",
+    "state": "passed",
+    "method": "Fresh before-and-after exports and simulations with the same software and numerical settings.",
+    "software": {
+      "PK-Sim": "12.2.112",
+      "ospsuite": "13.0.0.9008"
+    },
+    "fit_performed": false,
+    "affected_simulations": 1,
+    "cached_source_results_invalidated": true,
+    "observations_preserved": {
+      "means_per_analyte": 12,
+      "arithmetic_standard_deviations_per_analyte": 12
+    },
+    "grid": {
+      "start_h": 0,
+      "end_h": 15,
+      "step_h": 0.05,
+      "points_per_curve": 301
+    },
+    "endpoints": {
+      "AUC": "Linear trapezoidal AUC from 0 to 15 h.",
+      "Cmax": "Maximum concentration on the simulation grid.",
+      "Tmax": "Time of maximum concentration on the simulation grid."
+    },
+    "percent_change": {
+      "R-Metoprolol": {
+        "AUC0_15h": 13.882451585417,
+        "Cmax": 8.81323668169
+      },
+      "S-Metoprolol": {
+        "AUC0_15h": 13.522875421921,
+        "Cmax": 8.654912964335
+      }
+    },
+    "interpretation": "The population correction raises predicted exposure. RMSE and GMFE increase. These descriptive results do not show improved fit or establish statistical significance.",
+    "qualification_cache": "Earlier qualification results are valid only as archived baseline and layout evidence. Generate fresh results from the corrected source.",
+    "qualification_AUC_window_h": [
+      0,
+      12
+    ],
+    "qualification_ratio_requirement": "Generate fresh 0-12 h DGI ratios. The descriptive 0-15 h comparison must not replace qualification ratios."
+  }
+}
