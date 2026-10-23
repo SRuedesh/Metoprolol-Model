@@ -270,6 +270,41 @@
         "Project": "Metoprolol",
         "Simulation": "Werner 2003 NM, 50 mg tartrate IR, n=12, AS=1.5",
         "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Bennett 1982, 100 mg tartrate, n=12",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Chellingsworth 1988, 100 mg tartrate IR, n=12",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Chellingsworth 1988, 100 mg tartrate IR, n=12 md",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Kirch 1982, 100 mg tartrate, n=6 md",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Toon 1988, 100 mg tartrate, n=12 md",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Hemeryck 2000 NM, 100 mg tartrate IR, n=8, AS=2",
+        "SectionId": 332
+      },
+      {
+        "Project": "Metoprolol",
+        "Simulation": "Leemann 1993 NM, 20 mg tartrate iv 20 min, n=4",
+        "SectionId": 332
       }
     ],
     "GOFMergedPlots": [
@@ -478,6 +513,48 @@
                 "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
                 "ObservedData": "Bae 2014 NM, metoprolol, 100 mg tartrate IR, n=4, AS=2",
                 "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Bennett 1982, 100 mg tartrate, n=12",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Bennett 1982, metoprolol, 100 mg tartrate, n=12",
+                "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Chellingsworth 1988, 100 mg tartrate IR, n=12",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Chellingsworth 1988, metoprolol, 100 mg tartrate IR, n=12",
+                "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Chellingsworth 1988, 100 mg tartrate IR, n=12 md",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Chellingsworth 1988, metoprolol, 100 mg tartrate IR, n=12 md",
+                "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Kirch 1982, 100 mg tartrate, n=6 md",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Kirch 1982, metoprolol, 100 mg tartrate, n=6 md",
+                "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Toon 1988, 100 mg tartrate, n=12 md",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Toon 1988, metoprolol, 100 mg tartrate, n=12 md",
+                "Color": "#008000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Leemann 1993 NM, 20 mg tartrate iv 20 min, n=4",
+                "Output": "Organism|PeripheralVenousBlood|Metoprolol racemate|Metoprolol racemate Observer",
+                "ObservedData": "Leemann 1993 NM, metoprolol, 20 mg tartrate iv 20 min, n=4",
+                "Color": "#008000"
               }
             ]
           }
@@ -604,6 +681,13 @@
                 "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Parker 2011 NM, (R)-metoprolol, 100 mg succinate CR, n=15",
                 "Color": "#FF0000"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Hemeryck 2000 NM, 100 mg tartrate IR, n=8, AS=2",
+                "Output": "Organism|PeripheralVenousBlood|R-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Hemeryck 2000 NM, (R)-metoprolol, 100 mg tartrate IR, n=8, AS=2",
+                "Color": "#FF0000"
               }
             ]
           }
@@ -729,6 +813,13 @@
                 "Simulation": "Parker 2011 NM, 100 mg succinate CR, n=15",
                 "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
                 "ObservedData": "Parker 2011 NM, (S)-metoprolol, 100 mg succinate CR, n=15",
+                "Color": "#0000FF"
+              },
+              {
+                "Project": "Metoprolol",
+                "Simulation": "Hemeryck 2000 NM, 100 mg tartrate IR, n=8, AS=2",
+                "Output": "Organism|PeripheralVenousBlood|S-Metoprolol|Plasma (Peripheral Venous Blood)",
+                "ObservedData": "Hemeryck 2000 NM, (S)-metoprolol, 100 mg tartrate IR, n=8, AS=2",
                 "Color": "#0000FF"
               }
             ]

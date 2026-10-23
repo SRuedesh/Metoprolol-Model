@@ -2,7 +2,7 @@
 
 [2] Rüdesheim S, Loer HLH, Feick D, Marok FZ, Fuhr LM, Selzer D, et al. A Comprehensive CYP2D6 Drug-Drug-Gene Interaction Network for Application in Precision Dosing and Drug Development. Clinical Pharmacology & Therapeutics. 2025;117:1718-1731. doi: [10.1002/cpt.3604](https://doi.org/10.1002/cpt.3604).
 
-[3] Bae SH, Lee JK, Cho DY, Bae SK. Simultaneous determination of metoprolol and its metabolites, α-hydroxymetoprolol and O-desmethylmetoprolol, in human plasma by liquid chromatography with tandem mass spectrometry: Application to the pharmacokinetics of metoprolol associated with CYP2D6 genotype. Journal of Separation Science. 2014;37:1256-1264. doi: [10.1002/jssc.201301353](https://doi.org/10.1002/jssc.201301353).
+[3] Bae SH, Lee JK, Cho DY, Bae SK. Simultaneous determination of metoprolol and its metabolites, α-hydroxymetoprolol and O-desmethylmetoprolol, in human plasma by liquid chromatography with tandem mass spectrometry: Application to the pharmacokinetics of metoprolol associated with CYP2D6 genotypes. Journal of Separation Science. 2014;37:1256-1264. doi: [10.1002/jssc.201301353](https://doi.org/10.1002/jssc.201301353).
 
 [4] Damy T, Pousset F, Caplain H, Hulot JS, Lechat P. Pharmacokinetic and pharmacodynamic interactions between metoprolol and dronedarone in extensive and poor CYP2D6 metabolizers healthy subjects. Fundamental and Clinical Pharmacology. 2004;18:113-123. doi: [10.1046/j.1472-8206.2003.00216.x](https://doi.org/10.1046/j.1472-8206.2003.00216.x).
 
@@ -45,3 +45,15 @@
 [23] Wishart DS, et al. HMDB 4.0: the human metabolome database for 2018. Nucleic Acids Research. 2018;46:D608-D617. doi: [10.1093/nar/gkx1089](https://doi.org/10.1093/nar/gkx1089).
 
 [24] Moore C, Bourque MS, Halman A, Agúndez JAG, Prows CA, Hikino K, et al. Clinical Pharmacogenetics Implementation Consortium (CPIC) Guideline for CYP2D6 Genotype and Use of 5-HT<sub>3</sub> Receptor Antagonists: 2026 Update. Clinical Pharmacology & Therapeutics. 2026;120:387-393. doi: [10.1002/cpt.70291](https://doi.org/10.1002/cpt.70291).
+
+[25] Bennett PN, John VA, Whitmarsh VB. Effect of rifampicin on metoprolol and antipyrine kinetics. British Journal of Clinical Pharmacology. 1982;13:387-391. doi: [10.1111/j.1365-2125.1982.tb01390.x](https://doi.org/10.1111/j.1365-2125.1982.tb01390.x).
+
+[26] Chellingsworth MC, Laugher S, Akhlaghi S, Jack DB, Kendall MJ. The effects of ranitidine and cimetidine on the pharmacokinetics and pharmacodynamics of metoprolol. Alimentary Pharmacology & Therapeutics. 1988;2:521-527. doi: [10.1111/j.1365-2036.1988.tb00726.x](https://doi.org/10.1111/j.1365-2036.1988.tb00726.x).
+
+[27] Hemeryck A, Lefebvre RA, De Vriendt C, Belpaire FM. Paroxetine affects metoprolol pharmacokinetics and pharmacodynamics in healthy volunteers. Clinical Pharmacology and Therapeutics. 2000;67:283-291. doi: [10.1067/mcp.2000.104788](https://doi.org/10.1067/mcp.2000.104788).
+
+[28] Kirch W, Spahn H, Köhler H, Ohnhaus EE, Mutschler E. Interaction of metoprolol, propranolol and atenolol with concurrent administration of cimetidine. Klinische Wochenschrift. 1982;60:1401-1407. doi: [10.1007/BF01716245](https://doi.org/10.1007/BF01716245).
+
+[29] Leemann TD, Devi KP, Dayer P. Similar effect of oxidation deficiency (debrisoquine polymorphism) and quinidine on the apparent volume of distribution of (+/-)-metoprolol. European Journal of Clinical Pharmacology. 1993;45:65-71. doi: [10.1007/BF00315352](https://doi.org/10.1007/BF00315352).
+
+[30] Toon S, Davidson EM, Garstang FM, Batra H, Bowes RJ, Rowland M. The racemic metoprolol H2-antagonist interaction. Clinical Pharmacology and Therapeutics. 1988;43:283-289. doi: [10.1038/clpt.1988.34](https://doi.org/10.1038/clpt.1988.34).

@@ -18,19 +18,19 @@ The α-hydroxymetoprolol solubility input is the HMDB ALOGPS prediction of 1.43 
 
 ### Metabolism and elimination
 
-Metoprolol clearance is represented by CYP2D6-dependent α-hydroxylation, CYP2D6-dependent O-demethylation, CYP3A4 first-order clearance, renal filtration and residual clearance components.
+Metoprolol clearance is represented by CYP2D6-dependent α-hydroxylation, CYP2D6-dependent O-demethylation, CYP3A4 first-order clearance and renal filtration.
 
 * CYP2D6
 
 CYP2D6 is the dominant metabolic enzyme in the model. Separate CYP2D6 pathways are implemented for (R)- and (S)-metoprolol α-hydroxylation and O-demethylation. K<sub>m</sub> values are enantiomer- and pathway-specific, while k<sub>cat</sub> values are scaled by CYP2D6 activity score as documented in Table 3 of [Rüdesheim 2020](#5).
 
-The CYP2D6 activity-score implementation is the key determinant of simulated exposure differences between poor, intermediate, normal and ultrarapid metabolizer groups. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use optimized k<sub>cat</sub> values.
+The CYP2D6 activity-score implementation is the key determinant of simulated exposure differences between poor, intermediate, normal and ultrarapid metabolizer groups. Poor-metabolizer activity is set to zero, while non-zero activity-score groups use optimized k<sub>cat</sub> values. Simulations without an activity-score group use the NM default k<sub>cat</sub> values in [Table 1](#table-1). For (S)-metoprolol, these values equal the in vitro values of [Mautz 1995](#5), as listed in Supplement Table S12 of [Rüdesheim 2025](#5). They differ from the optimized values of 6.55 and 8.21 1/min in [Rüdesheim 2020](#5).
 
-* CYP3A4 and residual clearance
+* CYP3A4
 
-CYP3A4 is implemented as a first-order clearance pathway for each metoprolol enantiomer. This pathway accounts for CYP2D6-independent oxidative clearance and supports simulations in CYP2D6 poor-metabolizer groups without assigning all remaining clearance to renal elimination.
+CYP3A4 is implemented as a first-order clearance pathway for each metoprolol enantiomer. This pathway accounts for CYP2D6-independent oxidative clearance and supports simulations in CYP2D6 poor-metabolizer groups without assigning all remaining clearance to renal elimination. This pathway replaces the unspecific hepatic clearance process of the 2020 model ([Rüdesheim 2025](#5)).
 
-Residual clearance terms are empirical. They should be interpreted as structural model components required to describe total disposition rather than as direct measurements of a single biochemical pathway.
+The CYP3A4 clearance is empirical. The fraction of metoprolol metabolized by CYP3A4 in vivo is not known ([Rüdesheim 2020](#5)).
 
 * Renal and metabolite elimination
 

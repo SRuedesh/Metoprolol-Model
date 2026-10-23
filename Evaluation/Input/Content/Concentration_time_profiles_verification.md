@@ -1,1 +1,1 @@
-Model-verification profiles include additional adult clinical studies used to assess model behavior across sex, formulation and CYP2D6 status conditions not used as the primary fitting dataset.
+Model-verification profiles include additional adult clinical studies used to assess model behavior across sex, formulation and CYP2D6 status conditions not used as the primary fitting dataset. They also include seven metoprolol-only control arms of the CYP2D6 interaction network ([Rüdesheim 2025](#5)).
